@@ -1,3 +1,5 @@
+# Customer Analytics: Preparing Data for Modeling
+
 # General
 
 I prepared customer data by ensuring it was clean, well-structured, and ready for analysis
