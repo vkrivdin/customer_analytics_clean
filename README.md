@@ -6,11 +6,11 @@ The goal was to standardize data types and appropriately manage categorical vari
 - [Customer Analytics: Preparing Data for Modeling](https://app.datacamp.com/learn/projects/customer_analytics_preparing_data_for_modeling)
 
 # Input
-- [customer_train.csv]./customer_train.csv
+- [customer_train.csv](./customer_train.csv)
 
 # Output
-- [customer_clean.ipynb]./customer_clean.ipynb
-- [customer_train_clean.csv]./customer_train_clean.csv
+- [customer_clean.ipynb](./customer_clean.ipynb)
+- [customer_train_clean.csv](./customer_train_clean.csv)
 
 # Applied concepts
 
